@@ -148,8 +148,9 @@ python scarlet_v2.py --workers 20
 
 ## 👤 Autor
 
-**Eddu Escobedo**
+**3SC0B0T**
 
 ---
 
 ⚡ Desarrollado con Python + AsyncIO + aiohttp
+
